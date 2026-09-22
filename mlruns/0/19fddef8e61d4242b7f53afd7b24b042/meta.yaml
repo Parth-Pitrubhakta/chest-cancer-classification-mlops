@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Parth/Desktop/30_Days_AI_Apps_Challenge/06_Chest_Disease_Classification/chest-cancer-classification-mlops/mlruns/0/19fddef8e61d4242b7f53afd7b24b042/artifacts
+end_time: 1790091867061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19fddef8e61d4242b7f53afd7b24b042
+run_name: indecisive-elk-426
+run_uuid: 19fddef8e61d4242b7f53afd7b24b042
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790091847750
+status: 4
+tags: []
+user_id: Parth
