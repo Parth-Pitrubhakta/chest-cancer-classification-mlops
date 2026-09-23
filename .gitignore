@@ -219,3 +219,6 @@ __marimo__/
 
 
 artifacts/*
+
+# Runtime prediction input image
+inputImage.jpg
